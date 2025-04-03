@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, meu nome é Marden</h1>
 <h3 align="center">Sou desenvolvedor backend</h3>
 
-- 🔭 Atualmente estou desenvolvendo um projeto de [gerenciamento financeiro](https://github.com/MardenAndradee/projeto-gestor-financeiro)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mardenandradee" alt="mardenandradee" /></a> </p>
 
 - 📫 meu e-mail é **marden.andrade1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marden-andrade-928961311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marden-andrade-928961311/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marden-andrade-928961311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marden-andrade-928961311/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
