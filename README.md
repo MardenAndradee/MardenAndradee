@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Marden</h1>
-<h3 align="center">Sou desenvolvedor backend</h3>
+<h3 align="center">Sou desenvolvedor Full-Stack</h3>
 
 - 📫 meu e-mail é **marden.andrade1@gmail.com**
 
