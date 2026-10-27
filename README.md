@@ -1,19 +1,35 @@
-<h1 align="center">Olá 👋, meu nome é Marden</h1>
-<h3 align="center">Sou desenvolvedor Full-Stack</h3>
+# Olá, eu sou o Marden 👋
 
-- 📫 meu e-mail é **marden.andrade1@gmail.com**
+**Desenvolvedor Full-Stack — Java · Spring Boot · React · TypeScript**, com background em QA.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marden-andrade-928961311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marden-andrade-928961311/" height="30" width="40" /></a>
-</p>
+Construo aplicações web de ponta a ponta (APIs REST em Spring Boot + front-ends em React/Next.js) e trago da área de qualidade o hábito de escrever código testável e pensar nos casos de borda antes de ir pra produção.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 💼 Hoje: Analista de QA Pleno na GFSIS (testes manuais e automatizados em um sistema Java) e assumindo demandas de desenvolvimento no mesmo sistema
+- 🎓 Ciência da Computação — UNIFOR-MG
+- 🌎 Aberto a vagas **remotas** como desenvolvedor Full-Stack / Back-end Java
+- 📫 [marden.andrade1@gmail.com](mailto:marden.andrade1@gmail.com) · [LinkedIn](https://linkedin.com/in/marden-andrade-928961311/) · [Portfólio](https://mardenandradee.github.io/pt/)
 
+## 🛠️ Stack
 
-<div>
-<a href="https://github.com/MardenAndradee">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardenAndradee&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MardenAndradee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+**Back-end:** Java 21, Spring Boot, Spring Security (JWT/OAuth2), Spring Data JPA, Flyway, Node.js/Express
+**Front-end:** React, Next.js, TypeScript, Tailwind CSS
+**Banco & infra:** PostgreSQL, MySQL, Docker, GitHub Actions
+**Qualidade:** JUnit, Vitest, Cypress, Selenium, testes manuais e automatizados
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Gestão de alunos e pagamentos recorrentes](https://github.com/personal-code-army/student-management-and-recurring-payments) | Gestão de alunos, planos e cobranças recorrentes para uma academia (cliente real) | Spring Boot · Arquitetura hexagonal · Next.js |
+| [Sistema de triagem para postos de saúde](https://github.com/MardenAndradee/health-scheduling-system) | TCC: classificação de risco e fila de atendimento por urgência | Spring Boot · PostgreSQL · TypeScript |
+| [Sistema especialista de contabilidade](https://github.com/MardenAndradee/sistema-especialista-contabilidade) | Enquadramento tributário guiado por perguntas, com relatório em PDF e IA local | Spring Boot · Next.js · Ollama |
+| [Gestor financeiro](https://github.com/MardenAndradee/projeto-gestor-financeiro) | Controle de despesas com autenticação JWT e relatórios | Spring Boot · React · TypeScript |
+| [Painel Faculdade](https://github.com/MardenAndradee/painel-faculdade) | Organização acadêmica integrada ao Google Classroom e Calendar | Next.js · Express · Prisma · PostgreSQL |
+
+<details>
+<summary>📊 Estatísticas</summary>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MardenAndradee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardenAndradee&layout=compact&langs_count=6&theme=dracula" />
+
+</details>
