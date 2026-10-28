@@ -22,8 +22,8 @@ Construo aplicações web de ponta a ponta (APIs REST em Spring Boot + front-end
 |---|---|---|
 | [Gestão de alunos e pagamentos recorrentes](https://github.com/personal-code-army/student-management-and-recurring-payments) | Gestão de alunos, planos e cobranças recorrentes para uma academia (cliente real) | Spring Boot · Arquitetura hexagonal · Next.js |
 | [Sistema de triagem para postos de saúde](https://github.com/MardenAndradee/health-scheduling-system) | TCC: classificação de risco e fila de atendimento por urgência | Spring Boot · PostgreSQL · TypeScript |
-| [Sistema especialista de contabilidade](https://github.com/MardenAndradee/sistema-especialista-contabilidade) | Enquadramento tributário guiado por perguntas, com relatório em PDF e IA local | Spring Boot · Next.js · Ollama |
-| [Gestor financeiro](https://github.com/MardenAndradee/projeto-gestor-financeiro) | Controle de despesas com autenticação JWT e relatórios | Spring Boot · React · TypeScript |
+| [FinUp — Gestor financeiro](https://github.com/MardenAndradee/projeto-gestor-financeiro) | Controle de despesas com JWT, gráficos e exportação para Excel (cliente real) | Spring Boot · React · TypeScript |
+| [Atividade Atleta](https://atividadeatleta.com.br) | Plataforma comercial de inscrições para eventos esportivos, em produção (código privado) | Node.js · React · TypeScript · PostgreSQL |
 | [Painel Faculdade](https://github.com/MardenAndradee/painel-faculdade) | Organização acadêmica integrada ao Google Classroom e Calendar | Next.js · Express · Prisma · PostgreSQL |
 
 <details>
