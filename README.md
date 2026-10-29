@@ -6,7 +6,7 @@ Construo aplicações web de ponta a ponta (APIs REST em Spring Boot + front-end
 
 - 💼 Hoje: Analista de QA Pleno na GFSIS (testes manuais e automatizados em um sistema Java) e assumindo demandas de desenvolvimento no mesmo sistema
 - 🎓 Ciência da Computação — UNIFOR-MG
-- 🌎 Aberto a vagas **remotas** como desenvolvedor Full-Stack / Back-end Java
+- 🌎 Aberto a vagas como desenvolvedor Full-Stack / Back-end Java
 - 📫 [marden.andrade1@gmail.com](mailto:marden.andrade1@gmail.com) · [LinkedIn](https://linkedin.com/in/marden-andrade-928961311/) · [Portfólio](https://mardenandradee.github.io/pt/)
 
 ## 🛠️ Stack
